@@ -15,6 +15,7 @@ This app helps users manage their daily tasks efficiently by allowing them to **
 
 ## 🖼️ Demo
 👉[View Live Demo](https://ankammarao-portfolio.github.io/todo-app/)  
+
 <img width="528" height="299" alt="image" src="https://github.com/user-attachments/assets/94b40100-87a9-4239-9d10-5788d730a70e" />
  
 
